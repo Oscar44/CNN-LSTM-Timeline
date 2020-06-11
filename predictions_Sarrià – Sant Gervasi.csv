@@ -1,0 +1,3 @@
+District_name,Prediction_type,RMSE(€),Error(%),Certainty(%)
+Sarrià – Sant Gervasi,training,33.84,0.64,99.36
+Sarrià – Sant Gervasi,prediction,80.27,1.49,98.51

@@ -1,0 +1,3 @@
+District_name,Prediction_type,RMSE(€),Error(%),Certainty(%)
+Eixample,training,86.7,1.85,98.15
+Eixample,prediction,90.84,1.91,98.09

@@ -1,0 +1,3 @@
+District_name,Prediction_type,RMSE(€),Error(%),Certainty(%)
+Horta-Guinardó,training,129.08,4.11,95.89
+Horta-Guinardó,prediction,86.68,2.81,97.19

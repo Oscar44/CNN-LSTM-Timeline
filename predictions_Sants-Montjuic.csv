@@ -1,0 +1,3 @@
+District_name,Prediction_type,RMSE(€),Error(%),Certainty(%)
+Sants-Montjuic,training,59.31,1.67,98.33
+Sants-Montjuic,prediction,30.62,0.87,99.13

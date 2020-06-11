@@ -1,0 +1,3 @@
+District_name,Prediction_type,RMSE(€),Error(%),Certainty(%)
+Sant Martí,training,54.27,1.45,98.55
+Sant Martí,prediction,57.5,1.53,98.47
